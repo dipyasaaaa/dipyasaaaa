@@ -8,3 +8,8 @@
 dipyasaaaa/dipyasaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## My Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=dipyasaaaa&theme=dark&hide_border=true)
+
