@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m dibya
 - 🌱 Currently learning Data Structures, Algorithms, and Java frameworks.
-- 💻 Passionate about coding and eager to grow my skills in Java and Python.
+- 💻 Passionate about coding and eager to grow my skills in Java, Python and C++.
 - 🚀 Always exploring new technologies and working on expanding my knowledge every day.
 - 📚 Lifelong learner, with a focus on building efficient and scalable solutions.
 
