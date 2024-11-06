@@ -1,25 +1,15 @@
-<h2 align="left">👋 Hi, I’m Dibya</h2>
+### 👋 Hi, I’m dibya
+- 🌱 Currently learning Data Structures, Algorithms, and Java frameworks.
+- 💻 Passionate about coding and eager to grow my skills in Java, Python and C++.
+- 🚀 Always exploring new technologies and working on expanding my knowledge every day.
+- 📚 Lifelong learner, with a focus on building efficient and scalable solutions.
 
-<p>🌱 Currently learning Data Structures, Algorithms, and Java frameworks.<br>
-💻 Passionate about coding and eager to grow my skills in Java, Python, and C++.<br>
-🚀 Always exploring new technologies and working on expanding my knowledge every day.<br>
-📚 Lifelong learner, with a focus on building efficient and scalable solutions.</p>
+<!---
+dipyasaaaa/dipyasaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dipyasaaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  
-</div>
+## My Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dipyasaaaa&theme=dark&hide_border=true)
-
-###
-
-<br clear="both">
-
-
-
-
-
 
